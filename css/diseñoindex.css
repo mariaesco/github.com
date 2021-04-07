@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body {
+	background-color: white;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 700px;
+}
+.container{
+    margin-left: 550px;
+    margin-top: 50px;
+    width: 350px;
+    height: 300px;
+    background-color: #F6F8FA;
+    padding: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.info{
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 615px;
+}
+.user{
+    width: 300px;
+    height: 38px;
+    font-size: 18px;
+    border-radius: 5px;
+    margin-top: 30px;
+    border-color: #F6F8FA;
+}
+.contra{
+    margin-top: 10px;
+    width: 300px;
+    height: 38px;
+    font-size: 18px;
+    border-radius: 5px;
+    border-color: #F6F8FA;
+}
+.enviar{
+    margin-top: 20px;
+    width: 300px;
+    height: 31px;
+    border-radius: 8px;
+    background-color: #2fb154;
+    border: none;
+    margin-bottom: 15px;
+    color: white;
+    font-weight: bold;
+}
+.enviar:hover{
+    cursor: pointer;
+    background-color: #2C974B;
+}
+
+.email{
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+
+.pass{
+    font-size: 15px;
+    color: black;
+    font-style: normal;
+    position: absolute;
+    margin-top: 18px;
+    font-weight: bold;
+}
+.olvcontra{
+    margin-left: 190px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.singup{
+    margin-left: 550px;
+    margin-top: 50px;
+    width: 350px;
+    height: 50px;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    padding: 15px;
+    text-align: center;
+    border-color: #F6F8FA;
+    border: #F6F8FA;
+}
+
+.new{
+    position: absolute;
+    font-size: 15px;
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+.create{
+    font-size: 15px;
+    margin-left: 100px;
+    font-weight: bold;
+}
